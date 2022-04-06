@@ -1,3 +1,5 @@
+//FUNCTION DECLARATION
+
 //FUNÇÃO QUE NÃO RECEBE PARAMETRO E NÃO RETORNA NADA
 function sayHello() {
   console.log("hello");
