@@ -8,6 +8,7 @@ logParams(1, 2, 3);
 logParams(1, 2, 3, 4, 5);
 logParams(1, 2);
 
+//valor pardrão para parametros
 function defaultParams(a = 1, b = 2, c = 3) {
   console.log(a, b, c);
 }
